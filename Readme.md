@@ -45,7 +45,7 @@ EPSS Viewer is a PySide6-based desktop GUI application that provides a visual re
 4. **Run the Application**
 
    ```bash
-   python epss_viewer.py
+   python main.py
    ```
 
 ---
