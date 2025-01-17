@@ -25,7 +25,7 @@ EPSS Viewer is a PySide6-based desktop GUI application that provides a visual re
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-repo/epss-viewer.git
+   git clone https://github.com/Andrewliera/epss-viewer.git
    cd epss-viewer
    ```
 
